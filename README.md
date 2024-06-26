@@ -42,4 +42,4 @@ El proyecto se compone de dos archivos principales:
 
 ## Autor
 
-[@Gaston Murua](https://github.com/JGastonMurua)
+- [Gaston Murua](https://github.com/JGastonMurua)
