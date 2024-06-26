@@ -39,8 +39,7 @@ El proyecto se compone de dos archivos principales:
       - Inicia sesión.
       - Selecciona la base de datos criptomonedas.
       - Verifica los datos en la tabla criptomonedas.
+
 ## Autor
 
 [@Gaston Murua](https://github.com/JGastonMurua)
-
-Este es un proyecto creado para la cursada de la materia Programación sobre redes del profesor [Javier Blanco](https://github.com/jjcblanco)
